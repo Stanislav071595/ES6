@@ -1,5 +1,3 @@
-/* ES6 */
-______________________________________
 
 function checkScope() {
   let i = 'function scope';
