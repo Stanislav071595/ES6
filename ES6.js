@@ -112,4 +112,7 @@ const { today: { high: highToday}} = LOCAL_FORECAST;
 // Only change code above this line
 ______________________________________
 
-
+let a = 8, b = 6;
+// Only change code below this line
+[a, b] = [b, a];
+______________________________________
