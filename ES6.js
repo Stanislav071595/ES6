@@ -144,4 +144,13 @@ const half = ({max, min}) => {
 // Only change code above this line
 ______________________________________
 
+const createPerson = (name, age, gender) => {
+  // Only change code below this line
+  return ({ name, age, gender });
+
+  var zodiac = createPerson("Zodiac Hasbro", 56, "male");
+  // Only change code above this line
+};
+______________________________________
+
 
