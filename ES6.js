@@ -165,5 +165,14 @@ bicycle.setGear(3);
 console.log(bicycle.gear);
 ______________________________________
 
+<html>
+  <body>
+    <!-- Only change code below this line -->
+    <script type="module" src="index.js"></script>
+    <!-- Only change code above this line -->
+  </body>
+</html>
+______________________________________
+
 
 
