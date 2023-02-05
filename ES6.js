@@ -198,6 +198,10 @@ stringFunctions.uppercaseString("hello");
 stringFunctions.lowercaseString("WORLD!");
 ______________________________________
 
+export default function subtract(x, y) {
+  return x - y;
+}
+______________________________________
 
 
 
